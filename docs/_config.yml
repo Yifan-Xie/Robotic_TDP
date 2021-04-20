@@ -1,1 +1,15 @@
-theme: jekyll-theme-cayman
+title: UofG Robotics TDP
+remote_theme: pmarsceill/just-the-docs
+
+aux_links:
+  "View our GitHub!":
+    - "https://github.com/szgula/UofG_Robotics_TDP"
+
+search_enabled: true
+
+search:
+  heading_level: 1
+  rel_url: false
+  button: true
+
+footer_content: "Szymon Gula, Omar Jabri, Feng Feng, Yifan Xie, Shreyansh Singh <br /> Distributed by an <a href=\"https://github.com/szgula/UofG_Robotics_TDP/blob/main/LICENSE\">MIT License.</a>"
