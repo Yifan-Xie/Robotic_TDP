@@ -45,7 +45,7 @@ Visualiser is responsible for nine components' displaying, including:
 
 We can use the following properties to set the style for every component.
 
-```
+```python
 self._robo_radius = 10
 self._ball_radius = 5
 self._field_line_color = (255, 255, 255)

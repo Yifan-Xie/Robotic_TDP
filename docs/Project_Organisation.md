@@ -48,7 +48,7 @@ Following this methodology, the simplified time plan was created based on the pr
 It is worth noting that after the initial minimum value package (base simulation), the work was split into two streams, each extending functionality in different directions (blue blocks - functional, green block - infrastructural).
 In Figure 1 we present the milestones chain with the estimated finish time.
 
-![Milestones plan](../Figures/milestones_timeline_initial.png)
+![Milestones plan](Figures/milestones_timeline_initial.png)
 __Figure 1:__ Milestones time plan including functional components (blue), infrastructure (green) and other (orange).
 
 #### Risks
@@ -70,7 +70,7 @@ During the project realisation, we slightly adjusted the plan to overcome discov
 It can especially be seen in the infrastructure milestones, where the Gazebo Simulation and Perception blocks were replaced by extended work on our own simulator.
 Thanks to the initial work organisation and development flexibilities, these changes were very simple to accommodate and did not influence any other project dependencies.
 
-![Milestones plan](../Figures/project_realisation_timeline_2.png)
+![Milestones plan](Figures/project_realisation_timeline_2.png)
 
 __Figure 2:__ Components realisation: functional components (blue), infrastructure (green) and other (orange).
 
