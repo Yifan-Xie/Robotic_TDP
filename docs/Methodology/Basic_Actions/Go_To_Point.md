@@ -5,7 +5,7 @@ grand_parent: Methodology
 nav_order: 1
 ---
 
-## Go To Point
+# Go To Point
 
 This action implements an open-loop controller that commands the robot to a given location. 
 The main implements it in function ```go_to_paramaterized()```, 
