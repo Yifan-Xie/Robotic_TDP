@@ -5,7 +5,7 @@ grand_parent: Methodology
 nav_order: 2
 ---
 
-## Go Around the Point
+# Go Around the Point
 This action generates a robot control signal (wheel velocities) to go around a point at a given distance from the robot's centre 
 (distance perpendicular to the robot's heading).
 
