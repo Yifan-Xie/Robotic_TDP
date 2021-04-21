@@ -16,7 +16,7 @@ This project is about designing and simulating the RoboCup challenge - the footb
 <br><br>
 
 <p align="center">
-   <img src="Images/Score_Goal.gif" width = "500"><br><br>
+   <img src="Images/Score_Goal.gif" width = "700"><br><br>
 </p>
 
 ## Youtube demo: 
