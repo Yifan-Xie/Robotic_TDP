@@ -32,7 +32,7 @@ The function takes the following information into consideration:
  - dangerous zones, representation of the areas where opponents robot can get before the ball cross the net line.
 
 The described method uses multiple supporting functions to calculate the result, including:
-1. 
+
 ```python
 # Estimate the region from where an opponent can capture the ball
 # The region is represented by a triangle
@@ -40,7 +40,7 @@ The described method uses multiple supporting functions to calculate the result,
 @staticmethod
 def get_intersection_region(ball_position: np.array, player_position: np.array, kick_slope: float)
 ```
-2.
+
 ```python
 # This is used to check if an opponent is within the danger zone
 
