@@ -5,9 +5,7 @@ grand_parent: Methodology
 nav_order: 4
 ---
 
-# Supporting functions: Capture the ball: Ball soonest collision
-
-## Supporting functions: Move to the main file
+# Ball soonest collision
 
 Supporting functions are mid-level function used by high-level planners that take strategic decisions for a specific robot or the whole team.
 All logic inside this module can be seen as a library of functions that focus on interpreting the environment rather than providing strategic decisions.
