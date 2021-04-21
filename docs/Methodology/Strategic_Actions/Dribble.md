@@ -5,9 +5,6 @@ grand_parent: Methodology
 nav_order: 5
 ---
 
-# **Actions**
-
-**[Go back to main page](../../Documentation.md)**
 
 ## Dribble a Ball
 
