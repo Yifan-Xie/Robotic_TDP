@@ -5,10 +5,7 @@ grand_parent: Methodology
 nav_order: 2
 ---
 
-
-# **Actions**
-
-## Player Pass
+# Find Player Pass to pass
 This algorithm is responsible for finding the best teammate to pass the ball to. 
 It calculates if an opponent can capture the passing ball, suggests a player to pass to and provides an interface for "collaboration awareness" used by strategy makers.
 
