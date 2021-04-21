@@ -5,7 +5,7 @@ grand_parent: Methodology
 nav_order: 7
 ---
 
-## Strategic Point
+# Strategic Point
 
 The Strategic Point is an estimation of the optimal position for a robot to cooperate with its teammates effectively and have a good goalscoring position. 
 Since the ball has three basic states (in our team, in opponent's team and free) - therefore, a strategic point should be changed according to different situations. 
