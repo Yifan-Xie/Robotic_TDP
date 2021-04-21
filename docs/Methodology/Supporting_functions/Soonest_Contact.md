@@ -7,9 +7,6 @@ nav_order: 6
 
 # Supporting functions: Capture the ball: Ball the soonest contact
 
-**[Go back to main page](../../../Documentation.md)**
-
-
 ### Get ball's soonest contact
 The `soonest contact` function estimates the time a specific player needs to get to the freely moving ball (i.e., when the robot can cross the ball trajectory).
 It takes into consideration the ball state (position and velocity), and a robot state (position and max speed). 
@@ -36,7 +33,7 @@ __Output__: The earliest time when the robot can intersect with the ball traject
 
 The visualisations of time solutions (before the first bounce) are presented in Figure 1 and Figure 2, both with different initial ball velocities.
 
-![Behavioural Design](../../../Images/time_to_ball_1.png)
+![Behavioural Design](../../Images/time_to_ball_1.png)
 __Figure 1:__ Time solutions (colour) for robots in different initial position (x and y field position) for ball moving with constant velocity (vx > 0, vy = 0) (reduced to solutions found before first bounce).
-![Creational Design](../../../Images/time_to_ball_2.png)
+![Creational Design](../../Images/time_to_ball_2.png)
 __Figure 2:__ Time solutions (colour) for robots in different initial position (x and y field position) for ball moving with constant velocity (vx > 0, vy < 0) (reduced to solutions found before first bounce).
