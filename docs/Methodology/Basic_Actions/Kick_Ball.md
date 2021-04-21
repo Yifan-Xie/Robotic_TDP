@@ -7,8 +7,6 @@ nav_order: 3
 
 # Kick Ball
 
-##### [Go back to main page](../../Documentation.md)
-
 This functionality is implemented as a part of the ball model. If the ball receives a kick command from a robot, it first checks if the robot is within a predefined distance from the ball.
 
 ## Kick direction
