@@ -13,7 +13,7 @@ For a wrap up, we would like to show our appreciation to: <br>
     <br><br>    
   </p>
   
-Next, we will appreciate our group because we learn a lot from each other. <br>
+* Next, we will appreciate **our group** because we learn a lot from each other. <br>
 
   <p align="center">
     <img height = 400 src="Images/giphy-15.gif">
