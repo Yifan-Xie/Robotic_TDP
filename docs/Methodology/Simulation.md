@@ -6,8 +6,6 @@ nav_order: 2
 
 # Simulation 
 
-##### [Go back to main page](../../Documentation.md)
-
 Simulation is the module that emulates the physics of the game. 
 It includes the models of the dynamic environment (a ball and players), static environment (a field), set of time update rules (kinematics and dynamics) and some robot-soccer rules (goal rules, etc.).
 This module, although strongly independent of other modules, is the essential component that allows fast development of the robot's algorithms.
