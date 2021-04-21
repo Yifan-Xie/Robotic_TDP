@@ -3,7 +3,7 @@ title: Welcome!
 nav_order: 1
 ---
 
-## Welcome to Robotic Team Design Project !
+# Welcome to Robotic Team Design Project !
 
 <p align="center">
     <img src="Images/Log/Robotic.png" alt="Logo" >
@@ -19,7 +19,7 @@ This project is about designing and simulating the RoboCup challenge - the footb
    <img src="Images/Score_Goal.gif" width = "700"><br><br>
 </p>
 
-## Youtube demo: 
+# Youtube demo: 
 <br>
 <p align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/r5NuDpt1Q5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
