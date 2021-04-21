@@ -6,7 +6,7 @@ nav_order: 3
 
 # Visualization
 
-# Architecture
+## Architecture
 
 The game visualiser is embedded in the `GameSimulationServer` as a utility class. `visualizer.py` contains all the functional code for visualisation and there is only one relevant class to call this function when necessary.
 
