@@ -7,8 +7,6 @@ nav_order: 1
 
 # Actions
 
-##### [Go back to main page](../../Documentation.md)
-
 ## Check if passing the ball is feasible
 
 To make players work together the pass_ball function is needed. 
