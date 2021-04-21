@@ -9,12 +9,12 @@ nav_order: 6
 
  **[Go back to main page](../../Documentation.md)**
 
- ## Cover Opponent
+## Cover Opponent
 
 A defender should always keep an eye on any close opponents that might be in the team's field position.
 This algorithm has been developed for robots in "Defence" mode to mimic the actions that a real player performs to cover an opponent.
 
- ## Cover Opponent
+## Cover Opponent
 
 The defender takes the following inputs from the environment:
 1. Ball position
