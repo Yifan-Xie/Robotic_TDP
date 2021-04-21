@@ -10,7 +10,6 @@ In this section, we will discuss the project's structure, architecture and imple
 In the first part, we present project division and architecture, followed by a detailed description of high-level task definition and algorithm design. Next, we discuss implementation details of low-level functions are presented.
 
 # ROS and Project Architecture
-##### [Go back to main page](../../Documentation.md)
 
 ## ROS
 
