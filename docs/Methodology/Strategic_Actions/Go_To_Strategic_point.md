@@ -5,10 +5,6 @@ grand_parent: Methodology
 nav_order: 7
 ---
 
-# **Actions**
-
-**[Go back to main page](../../Documentation.md)**
-
 ## Strategic Point
 
 The Strategic Point is an estimation of the optimal position for a robot to cooperate with its teammates effectively and have a good goalscoring position. 
