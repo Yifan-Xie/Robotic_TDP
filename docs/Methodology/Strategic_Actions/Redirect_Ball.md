@@ -5,9 +5,7 @@ grand_parent: Methodology
 nav_order: 1
 ---
 
-# Strategic action: Redirect the ball 
-
-##### [Go back to main page](../../Documentation.md)
+## Redirect the ball 
 
 ### Application - Strategic actions: 
 __Comment!__ Move to the main file
