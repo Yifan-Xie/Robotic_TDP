@@ -21,23 +21,6 @@ This section of the documentation is split into:
 From the very beginning of the project, we were encouraged to follow a "commercial" approach to organise the work. 
 It included defining the product, estimating the resources, designing a development plan and preparing the product release/presentation. In the next few paragraphs, we will focus on the non-technical aspects of the development process. 
 
-### Resources estimation
-
-After the project description was provided, we estimated the team capabilities and external resources we can access during the project.
-
-The main identified resources, capabilities and their costs are presented in Table 1.
-
-| Resource      | Capabilities | Cost |
-| ----------- | ----------- | ----------- |
-|  @[Szymon](https://github.com/szgula) - __120h__     | C++, Python,...       | £100 |
-| @[Feng](https://github.com/fengfengFinn) - __120h__  | Visualisations, PyGames...        |£100|
-| @[Omar](https://github.com/OmarJabri7) - __120h__    | ROS, ....        |£100|
-| @[Yifan](https://github.com/Yifan-Xie) - __120h__    | ...        |£100|
-| @[Shrey](https://github.com/shreyExp) - __120h__     | ...        |£100|
-| @[UofG]() University Staff Support - __on demand__ (estimated 16h)    | Advisors (design, organisation, coding, etc.)       |£1000|
-__Table 1__: Project available resources.
-
-
 ### Plan
 Based on the estimated resources, we defined the project technical milestones needed for planning. 
 At that point, the mentioned milestones were not limited to realisable in a given time frame but only limited by the available team's skill-set and capabilities.
