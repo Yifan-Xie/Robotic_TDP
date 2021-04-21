@@ -5,7 +5,7 @@ grand_parent: Methodology
 nav_order: 1
 ---
 
-# **Strategy Team 0**
+# Strategy Team 0
 
 ## Structure - Subsumption Architecture
 
