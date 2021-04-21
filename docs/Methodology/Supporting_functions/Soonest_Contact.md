@@ -5,9 +5,7 @@ grand_parent: Methodology
 nav_order: 6
 ---
 
-# Supporting functions: Capture the ball: Ball the soonest contact
-
-### Get ball's soonest contact
+# Get ball's soonest contact
 The `soonest contact` function estimates the time a specific player needs to get to the freely moving ball (i.e., when the robot can cross the ball trajectory).
 It takes into consideration the ball state (position and velocity), and a robot state (position and max speed). 
 
