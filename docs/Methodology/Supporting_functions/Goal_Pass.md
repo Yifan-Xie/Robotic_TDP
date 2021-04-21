@@ -7,8 +7,6 @@ nav_order: 3
 
 # **Actions**
 
-**[Go back to main page](../../../Documentation.md)**
-
 ## Check if Score the Goal is feasible
 
 ***check_if_direct_goal_feasible()*** is used by methods related to scoring the gaols. 
@@ -18,7 +16,7 @@ This function returns the flag and a kick position if the goal can be scored to 
 The information flow of the discussed function is presented in Figure 1.
 
 <p align="center">
-  <img src="../../../Images/Goal_Pass_flow.png" /><br><br>
+  <img src="../../Images/Goal_Pass_flow.png" /><br><br>
 </p>
 
 __Figure 1__: The flow of checking if score the Goal is feasible
