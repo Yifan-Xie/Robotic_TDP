@@ -5,7 +5,7 @@ grand_parent: Methodology
 nav_order: 5
 ---
 
-## Score Goal
+# Score Goal
 
 Score Goal is one of the most important actions for the robots as it determines which team wins the game. Therefore, effective strategies for goal scoring should be considered carefully. 
 
