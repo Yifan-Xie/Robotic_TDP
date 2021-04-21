@@ -6,7 +6,7 @@ nav_order: 5
 ---
 
 
-## Dribble a Ball
+# Dribble a Ball
 
 Dribbling a ball is an advanced action for robots that allows them to carry a ball towards the opponent's net. 
 With the ball closer to the opponent's net, the probability of scoring the goal is higher.
