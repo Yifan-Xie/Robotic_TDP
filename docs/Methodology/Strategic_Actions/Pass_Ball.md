@@ -5,7 +5,7 @@ grand_parent: Methodology
 nav_order: 2
 ---
 
-## Pass the ball
+# Pass the ball
 
 Passing the ball is an essential action that allows robots to collaborate. 
 As the name suggests, it is used to intentionally kick the ball towards a teammate.
