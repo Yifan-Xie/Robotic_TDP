@@ -7,10 +7,6 @@ nav_order: 2
 
 # **Strategy Team 1**
 
-**[Go back to main page](../../Documentation.md)**
-
-
-
 ## Structure - Decision Tree
 
 The second strategy combines information about both teams and provides actions based on a decision tree. The advantage of this method is its simplicity and interpretability. We can say the tree acts as a coach of the team. It gathers information from the simulator about the team and its opponents and then produces a set of actions for each robot. 
