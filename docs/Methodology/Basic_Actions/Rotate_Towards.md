@@ -7,8 +7,6 @@ nav_order: 4
 
 # Rotate Towards
 
-##### [Go back to main page](../../Documentation.md)
-
 This action implements the open-loop controller that commands the robot to change its heading angle towards a
 given orientation. The function is implements in ```rotate_towards()```.
 
