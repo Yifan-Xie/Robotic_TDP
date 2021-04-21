@@ -5,7 +5,7 @@ grand_parent: Methodology
 nav_order: 1
 ---
 
-## Redirect the ball 
+# Redirect the ball 
 
 ### Application - Strategic actions: 
 __Comment!__ Move to the main file
