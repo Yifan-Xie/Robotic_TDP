@@ -5,7 +5,7 @@ grand_parent: Methodology
 nav_order: 2
 ---
 
-# **Strategy Team 1**
+# Strategy Team 1
 
 ## Structure - Decision Tree
 
