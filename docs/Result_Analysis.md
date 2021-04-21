@@ -52,8 +52,8 @@ Because of the limitation on the number of people, the five of us are not only d
 
 ||  Steps   | Expect Result  | Result |
 | ----  |   ----  | ----  | ----  | 
-|1|  Set the ball to a random position and let player from a random position to start moving | The player will dribble the ball to the opponent gate direction |Pass <img width=600 src="Images/test_dribble.gif" /><br><br>figuredribble test
-|2|  Set player in upper or lower field | The player will dribble the ball along corresponding path  to the gate|Pass <img width=600 src="Images/dribble_from_different_direction.gif" /><br><br>figure :dribble from different direction
+|1|  Set the ball to a random position and let player from a random position to start moving | The player will dribble the ball to the opponent gate direction |Pass <img width=600 src="Images/test_dribble.gif" /><br><br>figure: dribble test
+|2|  Set player in upper or lower field | The player will dribble the ball along corresponding path  to the gate|Pass <img width=600 src="Images/dribble_from_different_direction.gif" /><br><br>figure: dribble from different direction
 
 - Avoid Obstacle
 
