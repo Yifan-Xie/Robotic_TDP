@@ -5,10 +5,6 @@ grand_parent: Methodology
 nav_order: 6
 ---
 
-# **Actions**
-
- **[Go back to main page](../../Documentation.md)**
-
 ## Cover Opponent
 
 A defender should always keep an eye on any close opponents that might be in the team's field position.
