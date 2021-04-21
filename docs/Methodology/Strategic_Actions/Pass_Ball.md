@@ -5,11 +5,7 @@ grand_parent: Methodology
 nav_order: 2
 ---
 
-# Strategic action: Pass the ball
-
-##### [Go back to main page](../../Documentation.md)
-
-### Pass the ball
+## Pass the ball
 
 Passing the ball is an essential action that allows robots to collaborate. 
 As the name suggests, it is used to intentionally kick the ball towards a teammate.
