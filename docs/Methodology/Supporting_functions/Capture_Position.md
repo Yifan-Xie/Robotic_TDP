@@ -28,5 +28,5 @@ __Output__: Predicted ball state at a given time
 
 Figure 1 presents the trajectory with characteristic time events (bounces) and average velocities in specific trajectory components.
 
-![Behavioural Design](../../../Images/Ball_position.png)
+![Behavioural Design](../../Images/Ball_position.png)
 __Figure 1:__ Ball trajectory used to find ball position at the specific time.
