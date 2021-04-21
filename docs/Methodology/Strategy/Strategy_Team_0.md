@@ -7,10 +7,6 @@ nav_order: 1
 
 # **Strategy Team 0**
 
-**[Go back to main page](../../Documentation.md)**
-
-__Comment!__ Add high level description/assumptions 
-
 ## Structure - Subsumption Architecture
 
 Each of the five robots in the team is given a function/football position: 
