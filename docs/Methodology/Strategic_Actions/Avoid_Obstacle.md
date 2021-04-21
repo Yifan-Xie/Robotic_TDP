@@ -5,8 +5,6 @@ grand_parent: Methodology
 nav_order: 4
 ---
 
-# **Actions**
-
 ## Avoid Obstacle
 
 Avoiding obstacle function ensure that robots do not collide with each other. 
