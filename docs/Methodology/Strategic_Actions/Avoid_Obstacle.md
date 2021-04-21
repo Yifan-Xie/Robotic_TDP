@@ -5,7 +5,7 @@ grand_parent: Methodology
 nav_order: 4
 ---
 
-## Avoid Obstacle
+# Avoid Obstacle
 
 Avoiding obstacle function ensure that robots do not collide with each other. 
 For example, when two robots from opponent teams move along trajectories that cross or get close together, the robot should correct its trajectory.  
