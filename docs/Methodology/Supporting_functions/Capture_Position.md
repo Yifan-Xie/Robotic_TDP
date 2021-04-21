@@ -5,9 +5,7 @@ grand_parent: Methodology
 nav_order: 5
 ---
 
-# Supporting functions: Capture the ball: Capture Position
-
-##### [Go back to main page](../../../Documentation.md)
+# Get Capture Position
 
 ### Capture Position
 Almost all capture ball functions are based on the time domain, not the space domain (when the event will happen, not where).
