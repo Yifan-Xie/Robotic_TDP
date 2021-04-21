@@ -7,8 +7,6 @@ nav_order: 4
 
 # **Actions**
 
-**[Go back to main page](../../Documentation.md)**
-
 ## Avoid Obstacle
 
 Avoiding obstacle function ensure that robots do not collide with each other. 
